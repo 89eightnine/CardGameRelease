@@ -1,2 +1,2 @@
 # CardGameRelease
-是卡牌游戏
+是卡牌游戏DEMO
